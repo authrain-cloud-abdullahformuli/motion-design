@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use motion-design in your research or projects, please cite it as below."
+authors:
+  - name: "Abdullah Formuli"
+    family-names: Formuli
+    given-names: Abdullah
+    email: authrainmedia@gmail.com
+    website: https://github.com/authrain-cloud-abdullahformuli
+title: "motion-design: AI Motion Graphics & Video Generation Skill for Codex & Claude Code"
+version: 1.0.0
+date-released: 2026-10-25
+url: "https://github.com/authrain-cloud-abdullahformuli/motion-design"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/motion-design"
+license: MIT
+keywords:
+  - motion-design
+  - ai-video
+  - higgsfield
+  - claude-code
+  - codex
+  - marketing-film

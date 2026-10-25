@@ -1,0 +1,29 @@
+{
+  "name": "motion-design",
+  "version": "1.0.0",
+  "description": "Turn a product, website or idea into a complete motion film with Codex & Claude Code",
+  "author": "Abdullah Formuli <authrainmedia@gmail.com> (https://github.com/authrain-cloud-abdullahformuli)",
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/motion-design#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/motion-design.git"
+  },
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/motion-design/issues"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs",
+    "build:gallery": "python3 skills/motion-design/scripts/build_gallery.py"
+  },
+  "keywords": [
+    "motion-design",
+    "ai-video",
+    "higgsfield",
+    "claude-code",
+    "codex",
+    "video-generation",
+    "marketing-film"
+  ]
+}
